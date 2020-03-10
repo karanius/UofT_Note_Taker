@@ -4,6 +4,8 @@ A Node.js/Express.js application that can be used to write, save, and delete not
 
 # [LIVE LINK](https://notetakerapps.herokuapp.com/)
 
+![](screenShot.PNG)
+
 ## Table of Contents
 
 - [UofT SCS Full-Stack Web Development Boot Camp Project #9: Node.js/Express.js Note Taker](#uoft-scs-full-stack-web-development-boot-camp-project-9-nodejsexpressjs-note-taker)
@@ -21,7 +23,7 @@ A Node.js/Express.js application that can be used to write, save, and delete not
 
 Note Take is for users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
 
-![](screenShot.PNG)
+
 
 ## Business Context
 
