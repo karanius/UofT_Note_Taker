@@ -17,14 +17,11 @@ A Node.js/Express.js application that can be used to write, save, and delete not
 
 
 
-
-![](screenShot.PNG)
-
-
-
 ## About
 
 Note Take is for users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
+
+![](screenShot.PNG)
 
 ## Business Context
 
