@@ -6,13 +6,16 @@ A Node.js/Express.js application that can be used to write, save, and delete not
 
 ## Table of Contents
 
-1. [About](#about)
-1. [Business Context](#business-context)
-1. [Minimum Requirements](#minimum-requirements)
-1. [Development Strategy](#development-strategy)
-1. [Built With](#built-with)
+- [UofT SCS Full-Stack Web Development Boot Camp Project #9: Node.js/Express.js Note Taker](#uoft-scs-full-stack-web-development-boot-camp-project-9-nodejsexpressjs-note-taker)
+- [LIVE LINK](#live-link)
+  - [Table of Contents](#table-of-contents)
+  - [About](#about)
+  - [Business Context](#business-context)
+  - [Minimum Requirements](#minimum-requirements)
+  - [Development Strategy](#development-strategy)
+  - [Built With](#built-with)
 
-![](screenShot.png)
+![](screenShot.ONG)
 
 ## About
 
