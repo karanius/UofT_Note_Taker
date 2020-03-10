@@ -4,7 +4,7 @@ A Node.js/Express.js application that can be used to write, save, and delete not
 
 # [LIVE LINK](https://notetakerapps.herokuapp.com/)
 
-![](screenShot.PNG)
+![](screenShot.gif)
 
 ## Table of Contents
 
