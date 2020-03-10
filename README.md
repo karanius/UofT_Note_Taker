@@ -61,15 +61,6 @@ Application should allow users to delete previously saved notes.
 
   * DELETE `/api/notes/:id` - Should recieve a query paramter containing the id of a note to delete. This means you'll need to find a way to give each note a unique `id` when it's saved. In order to delete a note, you'll need to read all notes from the `db.json` file, remove the note with the given `id` property, and then rewrite the notes to the `db.json` file.
 
-Initial directory structure:
-
-```
-db/            // json files for databases
-public/        // rendered output
-templates/     // HTML template(s)
-server.js      // Server app
-```
-
 ## Built With
 
 - [Node.js](https://nodejs.org/en/) - JavaScript Backend Runtime Environment
